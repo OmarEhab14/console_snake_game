@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1718808335 source:d:\holiday_projects\snake_game\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	<windows.h>
+	<conio.h>
+	<string>
+	<fstream>
+
